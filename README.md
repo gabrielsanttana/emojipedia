@@ -1,5 +1,7 @@
 # <div align="center">Emojipedia 📕</div>
 
+<img src="./.github/main.png" />
+
 <p align="center">A declarative dictionary for emojis built with React 📕</p>
 
 ## 🛠️ Technologies
